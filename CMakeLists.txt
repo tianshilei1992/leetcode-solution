@@ -6,4 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(include)
 
+add_subdirectory(src)
+
 add_subdirectory(001-two-sum)
+add_subdirectory(002-add-two-numbers)
