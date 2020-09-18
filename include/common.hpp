@@ -44,4 +44,17 @@ inline void print_linked_list(ListNode *l) {
   }
 }
 
+template <typename T>
+inline void print_list(const std::vector<T> &l) {
+  std::cout << '[';
+  for (int i = 0; i < l.size(); ++i) {
+    if (i != 0) {
+      std::cout << ", ";
+
+    }
+    std::cout << l[i];
+  }
+  std::cout << ']';
+}
+
 #endif // LEETCODE_SOLUTION_COMMON_HPP
