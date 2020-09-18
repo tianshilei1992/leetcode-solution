@@ -11,3 +11,4 @@ status:
 |1431|Kids With the Greatest Number of Candies|0|09/18/2020|
 |1470|Shuffle the Array|8|09/18/2020|
 |1480|Running Sum of 1d Array|4|09/18/2020|
+|1512|Number of Good Pairs|0|09/18/2020|
