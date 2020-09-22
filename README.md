@@ -10,7 +10,9 @@ status:
 |4|Median of Two Sorted Arrays|20|09/11/2019|
 |771|Jewels and Stones|0|09/18/2020|
 |1108|Defanging an IP Address|0|09/18/2020|
+|1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
 |1431|Kids With the Greatest Number of Candies|0|09/18/2020|
 |1470|Shuffle the Array|8|09/18/2020|
 |1480|Running Sum of 1d Array|4|09/18/2020|
 |1512|Number of Good Pairs|0|09/18/2020|
+|1528|Shuffle String|12|09/21/2020|
