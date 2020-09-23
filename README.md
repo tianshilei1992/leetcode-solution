@@ -11,6 +11,7 @@ status:
 |771|Jewels and Stones|0|09/18/2020|
 |1108|Defanging an IP Address|0|09/18/2020|
 |1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
+|1365|How Many Numbers Are Smaller Than the Current Number|4|09/22/2020|
 |1431|Kids With the Greatest Number of Candies|0|09/18/2020|
 |1470|Shuffle the Array|8|09/18/2020|
 |1480|Running Sum of 1d Array|4|09/18/2020|
