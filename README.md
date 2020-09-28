@@ -10,6 +10,7 @@ status:
 |4|Median of Two Sorted Arrays|20|09/11/2019|
 |771|Jewels and Stones|0|09/18/2020|
 |1108|Defanging an IP Address|0|09/18/2020|
+|1119|Remove Vowels from a String|0|09/28/2020|
 |1281|Subtract the Product and Sum of Digits of an Integer|0|09/22/2020|
 |1313|Decompress Run-Length Encoded List|4|09/22/2020|
 |1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
@@ -20,3 +21,4 @@ status:
 |1480|Running Sum of 1d Array|4|09/18/2020|
 |1512|Number of Good Pairs|0|09/18/2020|
 |1528|Shuffle String|12|09/21/2020|
+|1570|Dot Product of Two Sparse Vectors|428|09/28/2020|
