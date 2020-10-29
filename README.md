@@ -11,6 +11,7 @@ status:
 |771|Jewels and Stones|0|09/18/2020|
 |1108|Defanging an IP Address|0|09/18/2020|
 |1119|Remove Vowels from a String|0|09/28/2020|
+|1165|Single-Row Keyboard|4|10/29/2020|
 |1281|Subtract the Product and Sum of Digits of an Integer|0|09/22/2020|
 |1313|Decompress Run-Length Encoded List|4|09/22/2020|
 |1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
