@@ -23,3 +23,4 @@ status:
 |1512|Number of Good Pairs|0|09/18/2020|
 |1528|Shuffle String|12|09/21/2020|
 |1570|Dot Product of Two Sparse Vectors|428|09/28/2020|
+|1614|Maximum Nesting Depth of the Parentheses|0|10/29/2020|
