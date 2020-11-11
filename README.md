@@ -19,8 +19,10 @@ status:
 |1389|Create Target Array in the Given Order|0|09/22/2020|
 |1431|Kids With the Greatest Number of Candies|0|09/18/2020|
 |1470|Shuffle the Array|8|09/18/2020|
+|1476|Subrectangle Queries|56|11/11/2020|
 |1480|Running Sum of 1d Array|4|09/18/2020|
 |1512|Number of Good Pairs|0|09/18/2020|
 |1528|Shuffle String|12|09/21/2020|
 |1570|Dot Product of Two Sparse Vectors|428|09/28/2020|
 |1614|Maximum Nesting Depth of the Parentheses|0|10/29/2020|
+|1637|Widest Vertical Area Between Two Points Containing No Points|444|11/11/2020|
