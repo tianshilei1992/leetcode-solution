@@ -26,3 +26,4 @@ status:
 |1570|Dot Product of Two Sparse Vectors|428|09/28/2020|
 |1614|Maximum Nesting Depth of the Parentheses|0|10/29/2020|
 |1637|Widest Vertical Area Between Two Points Containing No Points|444|11/11/2020|
+|1672|Richest Customer Wealth|8|12/05/2020|
