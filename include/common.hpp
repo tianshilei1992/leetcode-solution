@@ -10,6 +10,7 @@
 #include <limits>
 #include <list>
 #include <numeric>
+#include <stack>
 #include <string>
 #include <unordered_map>
 #include <vector>
@@ -18,6 +19,13 @@ struct ListNode {
   int val;
   ListNode *next;
   explicit ListNode(int x) : val(x), next(nullptr) {}
+};
+
+struct TreeNode {
+  int val;
+  TreeNode *left;
+  TreeNode *right;
+  TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
 inline ListNode *construct_linked_list_from_list(const std::vector<int> &vec) {
