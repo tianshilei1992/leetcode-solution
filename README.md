@@ -9,10 +9,13 @@ status:
 |3|Longest Substring Without Repeating Characters|8|09/04/2019|
 |4|Median of Two Sorted Arrays|20|09/11/2019|
 |771|Jewels and Stones|0|09/18/2020|
+|938|Range Sum of BST|168|12/08/2020|
 |1108|Defanging an IP Address|0|09/18/2020|
 |1119|Remove Vowels from a String|0|09/28/2020|
 |1165|Single-Row Keyboard|4|10/29/2020|
+|1221|Split a String in Balanced Strings|52|12/08/2020|
 |1281|Subtract the Product and Sum of Digits of an Integer|0|09/22/2020|
+|1302|Deepest Leaves Sum|4|12/08/2020|
 |1313|Decompress Run-Length Encoded List|4|09/22/2020|
 |1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
 |1365|How Many Numbers Are Smaller Than the Current Number|4|09/22/2020|
@@ -22,6 +25,7 @@ status:
 |1470|Shuffle the Array|8|09/18/2020|
 |1476|Subrectangle Queries|56|11/11/2020|
 |1480|Running Sum of 1d Array|4|09/18/2020|
+|1486|XOR Operation in an Array|0|12/08/2020|
 |1512|Number of Good Pairs|0|09/18/2020|
 |1528|Shuffle String|12|09/21/2020|
 |1570|Dot Product of Two Sparse Vectors|428|09/28/2020|
@@ -30,3 +34,4 @@ status:
 |1637|Widest Vertical Area Between Two Points Containing No Points|444|11/11/2020|
 |1662|Check If Two String Arrays are Equivalent|8|12/05/2020|
 |1672|Richest Customer Wealth|8|12/05/2020|
+|1678|Goal Parser Interpretation|0|12/08/2020|

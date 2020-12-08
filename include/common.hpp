@@ -10,6 +10,7 @@
 #include <limits>
 #include <list>
 #include <numeric>
+#include <queue>
 #include <stack>
 #include <string>
 #include <unordered_map>
