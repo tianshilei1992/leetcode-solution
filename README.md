@@ -17,6 +17,7 @@ status:
 |1281|Subtract the Product and Sum of Digits of an Integer|0|09/22/2020|
 |1302|Deepest Leaves Sum|4|12/08/2020|
 |1313|Decompress Run-Length Encoded List|4|09/22/2020|
+|1315|Sum of Nodes with Even-Valued Grandparent|36|12/08/2020|
 |1342|Number of Steps to Reduce a Number to Zero|0|09/21/2020|
 |1365|How Many Numbers Are Smaller Than the Current Number|4|09/22/2020|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|704|12/05/2020|
