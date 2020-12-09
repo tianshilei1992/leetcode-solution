@@ -34,5 +34,6 @@ status:
 |1614|Maximum Nesting Depth of the Parentheses|0|10/29/2020|
 |1637|Widest Vertical Area Between Two Points Containing No Points|444|11/11/2020|
 |1662|Check If Two String Arrays are Equivalent|8|12/05/2020|
+|1669|Merge In Between Linked Lists|424|12/08/2020|
 |1672|Richest Customer Wealth|8|12/05/2020|
 |1678|Goal Parser Interpretation|0|12/08/2020|
